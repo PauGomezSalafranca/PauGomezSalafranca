@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @PauGomezSalafranca
-- 👀 I’m interested in learning
-- 🌱 I’m currently learning Java and Python
-- 📫 How to reach me paugomezsalafranca@gmail.com
+Hello, my name is Pau Gomez Salafranca and I am an amateur programmer who is currently training to become a frontend and backend developer.
+I will be uploading to my GitHub account the projects I'm working on, if by any chance you see any bug in one of my codes, let me know at my email address paugomezsalafranca@gmail.com 💻❤️
 
 <!---
 PauGomezSalafranca/PauGomezSalafranca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
